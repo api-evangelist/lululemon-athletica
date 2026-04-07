@@ -1,7 +1,11 @@
 aid: lululemon-athletica
-url: https://raw.githubusercontent.com/api-evangelist/lululemon-athletica/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/lululemon-athletica/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.lululemon-athletica.com
+description: >-
+  Lululemon Athletica is a designer, distributor, and retailer of technical athletic
+  apparel, footwear, and accessories for women, men, and girls.
