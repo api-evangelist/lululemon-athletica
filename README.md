@@ -1,5 +1,6 @@
-# Lululemon athletica (lululemon-athletica)
-Lululemon athletica is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Lululemon athletica.
+# Lululemon Athletica (lululemon-athletica)
+
+Lululemon Athletica is a designer, distributor, and retailer of technical athletic apparel, footwear, and accessories for women, men, and girls. Lululemon does not currently publish a public developer portal or open APIs; digital integrations are handled through partner relationships and internal ecommerce, retail, and supply-chain platforms.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/lululemon-athletica/refs/heads/main/apis.yml)
 
@@ -9,14 +10,14 @@ Lululemon athletica is a Fortune 500 company. This repository captures the APIs,
 - **Position:** Consuming
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Apparel, Athletic Wear, Retail, Ecommerce, Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,10 +25,12 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.lululemon-athletica.com)
+- [Website](https://shop.lululemon.com)
+- [Corporate](https://corporate.lululemon.com)
+- [ContactForm](https://corporate.lululemon.com/contact)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
