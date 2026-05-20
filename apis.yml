@@ -23,6 +23,10 @@ description: >-
   ecommerce, retail, and supply-chain platforms.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/lululemon
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lululemon
   - type: Website
     url: https://shop.lululemon.com
   - type: Corporate
