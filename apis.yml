@@ -2,7 +2,7 @@ aid: lululemon-athletica
 name: Lululemon Athletica
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lululemon-athletica/refs/heads/main/apis.yml
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 kind: contract
 position: Consuming
 access: 3rd-Party
