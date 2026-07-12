@@ -23,6 +23,8 @@ description: >-
   ecommerce, retail, and supply-chain platforms.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lululemon-athletica-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/lululemon
   - type: LinkedIn
