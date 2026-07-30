@@ -2,7 +2,18 @@ aid: lululemon-athletica
 name: Lululemon Athletica
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lululemon-athletica/refs/heads/main/apis.yml
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lululemon-athletica.png
 kind: contract
 position: Consuming
 access: 3rd-Party
